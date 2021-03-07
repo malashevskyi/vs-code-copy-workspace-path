@@ -1,5 +1,10 @@
 # copy workspace path extension
 
+**A sad story:** :disappointed:
+It is my first extension. I spent a day watching videos and reading documentation to make this extension, and then I found how to open an external shell from an editor with the correct directory - `Ctrl + Shift + C`. :man_facepalming: So, you probably do not need this extension. But if you want just copy your app's path, you are welcome :smiley:
+
+***
+
 Copy workspace path. <br>
 In other words, the path of your project's root folder.
 
