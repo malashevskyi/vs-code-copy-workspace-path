@@ -14,5 +14,8 @@ Open Command Palette and type `copy-workspace-path` to copy or press `Ctrl + Alt
 
 ![extension gif](./images/gif.gif)
 
-If you don't want to type `cd`, you can copy the path with `cd` (`cd path`), <br> go to settings and check `Add cd` (reload required after changing)
+### Options
+- [cd] - if you don't want to type `cd`, you can copy the path with `cd` (`cd path`)
+- [quotes] - path with quotes or without
+  
 ![settings screenshot](./images/screenshot.png)
