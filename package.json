@@ -3,7 +3,7 @@
   "displayName": "copy-workspace-path",
   "description": "Copy workspace path. In other words, the path of your project's root folder.",
   "publisher": "Malashevskyi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.54.0"
   },
